@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>-205</integer>
 	<key>familyName</key>
-	<string>Metropolis</string>
+	<string>neatziti</string>
 	<key>openTypeHeadCreated</key>
 	<string>2020/01/02 11:09:40</string>
 	<key>openTypeHheaAscender</key>
@@ -17,11 +17,11 @@
 	<key>openTypeHheaDescender</key>
 	<integer>-205</integer>
 	<key>openTypeNameDesignerURL</key>
-	<string>https://github.com/chrismsimpson/Metropolis</string>
+	<string>https://github.com/neat8/neatziti</string>
 	<key>openTypeNameManufacturerURL</key>
-	<string>https://github.com/chrismsimpson/Metropolis</string>
+	<string>https://github.com/neat8/neatziti</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Metropolis</string>
+	<string>neatziti</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Thin</string>
 	<key>openTypeOS2TypoAscender</key>
@@ -50,7 +50,7 @@
 		<integer>807</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>Metropolis-Thin</string>
+	<string>neatziti-thin</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-217</integer>
@@ -69,7 +69,7 @@
 	<key>postscriptUnderlineThickness</key>
 	<integer>20</integer>
 	<key>styleMapFamilyName</key>
-	<string>Metropolis Thin</string>
+	<string>neatziti thin</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>

@@ -1,24 +1,30 @@
 {
-    "name": "@chrismsimpson/metropolis",
-    "version": "10.0.0",
-    "description": "Metropolis: A modern, geometric typeface",
+    "name": "@neat8/neatziti",
+    "version": "0.0.8",
+    "description": "neatziti: A modern, geometric typeface",
     "keywords": [
       "font",
+      "font family",
       "type",
       "typeface",
       "metropolis",
+      "neatziti",
+      "neat8",
       "geometric",
       "modern"
     ],
     "repository": {
       "type": "git",
-      "url": "https://github.com/chrismsimpson/Metropolis"
+      "url": "https://github.com/neat8/neatziti/"
     },
-    "license": "Unlicense",
+    "scripts": {
+      "archive": "git archive --format zip -o font-neatziti.zip master"
+    },
+    "license": "OFL-1.1",
     "bugs": {
-      "url": "https://github.com/chrismsimpson/Metropolis/issues"
+      "url": "https://github.com/neat8/neatziti/issues"
     },
-    "homepage": "https://github.com/chrismsimpson/Metropolis",
+    "homepage": "https://github.com/neat8/neatziti/",
     "files": [
       "Fonts/OpenType",
       "Fonts/TrueType",

@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>-205</integer>
 	<key>familyName</key>
-	<string>Metropolis</string>
+	<string>neatziti</string>
 	<key>italicAngle</key>
 	<real>-11.75</real>
 	<key>openTypeHeadCreated</key>
@@ -19,11 +19,11 @@
 	<key>openTypeHheaDescender</key>
 	<integer>-205</integer>
 	<key>openTypeNameDesignerURL</key>
-	<string>https://github.com/chrismsimpson/Metropolis</string>
+	<string>https://github.com/neat8/neatziti</string>
 	<key>openTypeNameManufacturerURL</key>
-	<string>https://github.com/chrismsimpson/Metropolis</string>
+	<string>https://github.com/neat8/neatziti</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Metropolis</string>
+	<string>neatziti</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Black Italic</string>
 	<key>openTypeOS2TypoAscender</key>
@@ -52,7 +52,7 @@
 		<integer>811</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>Metropolis-BlackItalic</string>
+	<string>neatziti-blackitalic</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-221</integer>
@@ -77,7 +77,7 @@
 	<key>postscriptUnderlineThickness</key>
 	<integer>20</integer>
 	<key>styleMapFamilyName</key>
-	<string>Metropolis Black</string>
+	<string>neatziti black</string>
 	<key>styleMapStyleName</key>
 	<string>italic</string>
 	<key>styleName</key>

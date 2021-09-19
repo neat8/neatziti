@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>-205</integer>
 	<key>familyName</key>
-	<string>Metropolis</string>
+	<string>neatziti</string>
 	<key>guidelines</key>
 	<array>
 		<dict>
@@ -30,11 +30,11 @@
 	<key>openTypeHheaDescender</key>
 	<integer>-205</integer>
 	<key>openTypeNameDesignerURL</key>
-	<string>https://github.com/chrismsimpson/Metropolis</string>
+	<string>https://github.com/neat8/neatziti</string>
 	<key>openTypeNameManufacturerURL</key>
-	<string>https://github.com/chrismsimpson/Metropolis</string>
+	<string>https://github.com/neat8/neatziti</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Metropolis</string>
+	<string>neatziti</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeOS2TypoAscender</key>
@@ -63,7 +63,7 @@
 		<integer>807</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>Metropolis-Regular</string>
+	<string>neatziti-regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-217</integer>

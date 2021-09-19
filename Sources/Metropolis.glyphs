@@ -5,8 +5,8 @@ DisplayStrings = (
 "The quick brown fox\012jumps over the lazy\012dog.\012\012She sells sea shells by the seashore"
 );
 date = "2020-01-02 00:09:40 +0000";
-designerURL = "https://github.com/chrismsimpson/Metropolis";
-familyName = Metropolis;
+designerURL = "https://github.com/neat8/neatziti";
+familyName = neatziti;
 fontMaster = (
 {
 alignmentZones = (
@@ -64784,7 +64784,7 @@ braceleft = -25;
 };
 };
 };
-manufacturerURL = "https://github.com/chrismsimpson/Metropolis";
+manufacturerURL = "https://github.com/neat8/neatziti";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
